@@ -19,6 +19,8 @@ languages:
     title: 'Sprache'
     current: 'Deutsch'
     available:
+      - name: 'English'
+        website: 'http://thephpleague.com'
       - name: 'Französisch'
         website: 'http://fr.thephpleague.com'
       - name: 'Spanisch'

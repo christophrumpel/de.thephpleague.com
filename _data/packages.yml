@@ -21,7 +21,7 @@
   website: http://csv.thephpleague.com
   complete: true
   description: CSV Datenmanipulation leicht gemacht
-           author:
+  author:
     name: Ignace Nyamagana Butera
     username: nyamsprod
 

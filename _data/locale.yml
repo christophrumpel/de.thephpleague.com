@@ -40,7 +40,7 @@ packages:
     footnote: 'Package ist noch in Arbeit'
 quailty:
     title: 'Unsere Definition von Qualität'
-    introduction: 'Wenn man 100 Entwickler fragt wie ein großartiges Package aussieht, wird man wohl dutzende verschiedene Antworten bekommen. Das klingt nach einer verdammt langweiligen Angelegenheit, weshalb haben wir eine Liste mit Dingen zusammengestellt die <em>unserer Meinung nach</em> so ein Package ausmachen.'
+    introduction: 'Wenn man 100 Entwickler fragt wie ein großartiges Package aussieht, wird man wohl dutzende verschiedene Antworten bekommen. Das klingt nach einer verdammt langweiligen Angelegenheit, weshalb haben wir eine Liste mit Dingen zusammengestellt haben die <em>unserer Meinung nach</em> so ein Package ausmachen.'
     button: 'Schaut euch unser Projekt-Grundgerüst an'
     rules:
         - 'Verwendet <code>League</code> als <a href="http://www.php-fig.org/psr/psr-4/">PSR-4</a> autoloader namespace. Der Code kommt in den <code>src</code> Ordner.'
